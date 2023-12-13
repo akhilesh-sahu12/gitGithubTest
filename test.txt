@@ -2,4 +2,9 @@ Hi, I am akhilesh sahu
 I am in feature1.
 this is for confict feature1 branch.
 
+hi, I am akhilesh sahu
+I am in branch feature2.
+This is for confict feature2.
+
+
 
