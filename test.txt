@@ -1,4 +1,6 @@
 hi, I am akhilesh sahu
+I am in branch feature2.
+This is for confict feature2.
 
 
 
